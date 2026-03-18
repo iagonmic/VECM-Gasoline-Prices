@@ -1,0 +1,4 @@
+python-bcb
+pandas
+ipykernel
+typing-extensions
