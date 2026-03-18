@@ -3,3 +3,4 @@ pandas
 ipykernel
 typing-extensions
 matplotlib
+basedosdados
