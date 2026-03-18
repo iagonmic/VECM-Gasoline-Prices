@@ -3,4 +3,5 @@ pandas
 ipykernel
 typing-extensions
 matplotlib
-basedosdados
+requests
+bs4
