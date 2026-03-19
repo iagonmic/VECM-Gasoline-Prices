@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+gas_prices
 
 # C extensions
 *.so
