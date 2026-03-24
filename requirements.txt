@@ -5,3 +5,5 @@ typing-extensions
 matplotlib
 requests
 bs4
+statsmodels
+arch
